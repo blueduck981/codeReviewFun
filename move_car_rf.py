@@ -1,4 +1,6 @@
 # This is a program to move two vehicles around a grid.
+# (rewritten code modified from stack overflow code review)
+#
 # Each vehicle moves one space at a time in the direction
 # that it is facing - or in the opposite direction it is 
 # facing.  
